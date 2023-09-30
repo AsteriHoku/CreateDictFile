@@ -1,0 +1,15 @@
+C:\Users\lixas\RiderProjects\CreateDictFile\CreateDictFile\bin\Debug\net6.0\CreateDictFile.exe
+C:\Users\lixas\RiderProjects\CreateDictFile\CreateDictFile\bin\Debug\net6.0\CreateDictFile.deps.json
+C:\Users\lixas\RiderProjects\CreateDictFile\CreateDictFile\bin\Debug\net6.0\CreateDictFile.runtimeconfig.json
+C:\Users\lixas\RiderProjects\CreateDictFile\CreateDictFile\bin\Debug\net6.0\CreateDictFile.dll
+C:\Users\lixas\RiderProjects\CreateDictFile\CreateDictFile\bin\Debug\net6.0\ref\CreateDictFile.dll
+C:\Users\lixas\RiderProjects\CreateDictFile\CreateDictFile\bin\Debug\net6.0\CreateDictFile.pdb
+C:\Users\lixas\RiderProjects\CreateDictFile\CreateDictFile\obj\Debug\net6.0\CreateDictFile.csproj.AssemblyReference.cache
+C:\Users\lixas\RiderProjects\CreateDictFile\CreateDictFile\obj\Debug\net6.0\CreateDictFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lixas\RiderProjects\CreateDictFile\CreateDictFile\obj\Debug\net6.0\CreateDictFile.AssemblyInfoInputs.cache
+C:\Users\lixas\RiderProjects\CreateDictFile\CreateDictFile\obj\Debug\net6.0\CreateDictFile.AssemblyInfo.cs
+C:\Users\lixas\RiderProjects\CreateDictFile\CreateDictFile\obj\Debug\net6.0\CreateDictFile.csproj.CoreCompileInputs.cache
+C:\Users\lixas\RiderProjects\CreateDictFile\CreateDictFile\obj\Debug\net6.0\CreateDictFile.dll
+C:\Users\lixas\RiderProjects\CreateDictFile\CreateDictFile\obj\Debug\net6.0\ref\CreateDictFile.dll
+C:\Users\lixas\RiderProjects\CreateDictFile\CreateDictFile\obj\Debug\net6.0\CreateDictFile.pdb
+C:\Users\lixas\RiderProjects\CreateDictFile\CreateDictFile\obj\Debug\net6.0\CreateDictFile.genruntimeconfig.cache
